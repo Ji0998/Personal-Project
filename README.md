@@ -1,4 +1,3 @@
-# Personal-Project (Perth Rental Market Dashboard)
 # 🏠 Perth Rental Price Dashboard (Looker Studio)
 
 This project visualizes rental price trends(example data) across various suburbs in Perth, WA, Australia using **Google Looker Studio**. 
@@ -63,8 +62,6 @@ The dataset was collected and processed in Python, and automatically updated via
 ---
 
 ## 📷 Preview
-
-![Dashboard Preview]
 <img width="776" height="371" alt="image" src="https://github.com/user-attachments/assets/c745070f-d925-4881-b541-c483bbf4b96b" />
 
 ---
